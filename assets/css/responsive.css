@@ -1,0 +1,59 @@
+/* //x Small devices (landscape phones, 576px and up) */
+@media (max-width: 575.98px) { 
+    /* header part start */
+    .banner-content p{
+        text-align: justify;
+    }
+    .banner-container{
+        padding: 70px 0px;
+    }
+    .banner-content .py-4 {
+        padding-top: .5rem !important;
+        padding-bottom: .5rem !important;
+    }
+    /* header part start */
+    /* about part start */
+    .about-section{
+        padding: 30px 0px 0px 0px;
+    }
+    /* about part end */
+  }
+  /* //Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px){ 
+    /* header part start */
+    .banner-content p{
+        text-align: justify;
+    }
+    .banner-container{
+        padding: 80px 0px;
+    }
+    .banner-content .py-4 {
+        padding-top: .5rem !important;
+        padding-bottom: .5rem !important;
+    }
+    /* header part end */
+    /* about part start */
+    .about-section{
+        padding: 30px 0px 0px 0px;
+    }
+    /* about part end */
+  }
+   /* //Small devices (landscape phones, 576px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px){ 
+    /* header part start */
+    .banner-content p{
+        text-align: justify;
+    }
+    .banner-container{
+        padding: 105px 0px;
+    }
+    .banner-content .py-4 {
+        padding-top: .5rem !important;
+        padding-bottom: .5rem !important;
+    }
+    /* header part end */
+    /* about part start */
+    .about-section{
+        padding: 35px 0px 0px 0px;
+    }
+  }
